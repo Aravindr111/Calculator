@@ -38,14 +38,14 @@ A simple and user-friendly calculator application that performs basic arithmetic
 
 ## Usage:
 
-1. Enter numbers using the on-screen keypad.
-2. Select an arithmetic operation (+, -, ×, ÷).
-3. View the real-time result displayed on the screen.
-4. Use the clear button to reset the calculator.
+- Enter numbers using the on-screen keypad.
+- Select an arithmetic operation (+, -, ×, ÷).
+- View the real-time result displayed on the screen.
+- Use the clear button to reset the calculator.
 
 ## Conclusion:
 
-The Basic Calculator App is a straightforward yet powerful tool designed to provide users with essential arithmetic functions in a user-friendly interface. By leveraging HTML, CSS, and JavaScript,I have created an application that not only meets basic computational needs but also emphasizes ease of use and accessibility across devices.
+The Basic Calculator App is a straightforward yet powerful tool designed to provide users with essential arithmetic functions in a user-friendly interface. By leveraging HTML, CSS, and React Js,I have created an application that not only meets basic computational needs but also emphasizes ease of use and accessibility across devices.
 
 I encourage feedback and contributions to further improve the app. Thank you for your interest in the Basic Calculator App!
 
