@@ -1,6 +1,6 @@
 # Basic Calculator App
 
-A simple and user-friendly calculator application that performs basic arithmetic operations including addition, subtraction, multiplication, and division. Built with HTML, CSS, and JavaScript, this app provides an intuitive interface for quick calculations.
+A simple and user-friendly calculator application that performs basic arithmetic operations including addition, subtraction, multiplication, and division. Built with HTML, CSS, and React Js, this app provides an intuitive interface for quick calculations.
 
 ## Features
 
